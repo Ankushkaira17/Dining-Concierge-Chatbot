@@ -57,4 +57,4 @@ User gets the following text message:
 
 ![Image of Architecture]
 
-(https://github.com/rahulgarg97/Dining-Concierge-Chatbot-AWS/blob/main/Dining_Concierge_Chatbot.png)
+(https://github.com/rahulgarg97/Dining-Concierge-Chatbot-AWS/blob/main/Dining_Concierge_Chatbot.png?raw=true)
