@@ -53,3 +53,7 @@ User gets the following text message:
 
 “Hello! Here are my Japanese restaurant suggestions for 2 people, for today at 7 pm: 1. Sushi Nakazawa, located at 23 Commerce St, 2. Jin Ramen, located at 3183 Broadway, 3. Nikko, located at 1280 Amsterdam Ave. Enjoy your meal!”
 
+## Architecture ##
+
+![Image of Architecture]
+(https://github.com/rahulgarg97/Dining-Concierge-Chatbot-AWS/blob/main/Dining_Concierge_Chatbot.png)
