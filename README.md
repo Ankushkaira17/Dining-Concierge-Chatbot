@@ -55,6 +55,4 @@ User gets the following text message:
 
 ## Architecture ##
 
-![alt text]
-
-(https://github.com/rahulgarg97/Dining-Concierge-Chatbot-AWS/blob/main/Dining_Concierge_Chatbot.png)
+github.com/rahulgarg97/Dining-Concierge-Chatbot-AWS/blob/main/Dining_Concierge_Chatbot.png
