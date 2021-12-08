@@ -16,7 +16,7 @@ def lambda_handler(event, context):
     if message is not None or len(message) > 0:
         data = message[0]['unstructured']['text']
         client = boto3.client('lex-runtime')
-        bot_response = client.post_text(botName='DiningConcierge', botAlias='DiningConcierge', userId='rahul', inputText= data)
+        bot_response = client.post_text(botName='DiningConcierge', botAlias='DiningConcierge', userId='ankushkaira', inputText= data)
         
         bot_response_message = bot_response['message']
         
